@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "index.js",
+    "config.js",
+    "lib/commands/general.menu.js",
+    "lib/simple.js",
+    "lib/commands/owner.reload.js",
+    "lib/commands/owner.restart.js"
+  ],
+  "ext": "js,json",
+  "ignore": ["lyion_session/", "lib/*"],
+  "exec": "node index.js"
+}

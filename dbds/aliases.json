@@ -1,0 +1,7 @@
+{
+  "setprefix": ["config", "setprefix"],
+  "addadmin": ["config", "addowner"],
+  "say": "echo",
+  "config": "config",
+  "hello": "echo"
+}
