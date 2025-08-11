@@ -9,5 +9,5 @@
   ],
   "ext": "js,json",
   "ignore": ["lyion_session/", "lib/*"],
-  "exec": "node index.js"
+  "exec": "node lyion.js"
 }
