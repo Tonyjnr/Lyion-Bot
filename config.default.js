@@ -16,9 +16,9 @@ global.packname = `Lyion Bot`;
 global.author = global.ownerName;
 
 //Api Keys
-global.googleApiKey = "AIzaSyCTLfrUN2V-c10ZbilnsTCJ2Ml-ZC2eZXY"; // Google API Key
-global.googleSearchEngineId = "27824c324533245d7"; // Google Custom Search Engine ID
-global.geminiApiKey = "AIzaSyCTLfrUN2V-c10ZbilnsTCJ2Ml-ZC2eZXY";
+global.googleApiKey = ""; // Google API Key
+global.googleSearchEngineId = ""; // Google Custom Search Engine ID
+global.geminiApiKey = "";
 //logging settings
 global.logging = {
   level: "info", // error, warn, info, debug, trace
