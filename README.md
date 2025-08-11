@@ -76,7 +76,6 @@ All configuration is done in the `config.js` file. Here are the key variables to
 - `ownerName`: Your name.
 - `ownerNumber`: Your WhatsApp number (e.g., `['6281234567890']`).
 - `prefix`: The prefix for commands (e.g., `+`).
-- `sessionName`: The name of the session folder.
 - `publicMode`: `true` to allow anyone to use the bot, `false` for owner only.
 - `googleApiKey`: Your Google API Key.
 - `googleSearchEngineId`: Your Google Custom Search Engine ID.
@@ -88,8 +87,9 @@ All configuration is done in the `config.js` file. Here are the key variables to
     ```bash
     npm start
     ```
-2.  **Scan the QR code:**
-    On the first run, a QR code will be displayed in the terminal. Scan it with your WhatsApp mobile app to log in.
+2.  **PairCode Request:**
+    input your number: eg 573171405478, and input the paircode below in the prompt.....
+    PairCode: LYIONBOT
 
 ## Command List
 
