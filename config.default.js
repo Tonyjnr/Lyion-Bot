@@ -10,8 +10,7 @@ global.botVersion = "1.1.0";
 // Bot Settings
 global.prefix = "+"; // Define the prefix for commands
 global.sessionName = "lyion_session"; // Folder name to save session
-global.publicMode = false; // Set to true to allow anyone to use the bot, false for owner only
-global.autoUpdate = true; // Set to true to enable auto-update from GitHub
+global.publicMode = true; // Set to true to allow anyone to use the bot, false for owner only
 
 global.packname = `Lyion Bot`;
 global.author = global.ownerName;
