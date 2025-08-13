@@ -61,7 +61,7 @@ Lyion Bot is a versatile WhatsApp bot designed to be easily extensible and confi
 
 1.  **Clone the repository:**
     ````bash
-    git clone https://github.com/your-username/lyion-bot.git
+    git clone https://github.com/Tonyjnr/lyion-bot.git
     cd lyion-bot
     ```2.  **Install dependencies:**
     ```bash
