@@ -89,7 +89,8 @@ All configuration is done in the `config.js` file. Here are the key variables to
     ```
 2.  **PairCode Request:**
     input your number: eg 573171405478, and input the paircode below in the prompt.....
-    PairCode: LYIONBOT
+
+    PairCode: `LYIONBOT`
 
 ## Command List
 
